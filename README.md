@@ -3,7 +3,7 @@
 
 ## :book: About me 
 - 💻 I'm a FullStack Developer, Digital Marketing Enthusiast and a lifelong learner!!
-- 🏢 I'm passionate about helping businesses increase their productivity and profitability using software tools
+- 🏢 I'm passionate about developing my skills to help businesses increase their productivity and profitability using software tools
 - 👯 I'm looking to collaborate with other Developers to create and grow 📈 something awesome
 
 
