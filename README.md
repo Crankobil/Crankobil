@@ -1,13 +1,15 @@
-# Hi there, I'm Christian :wave:
+# :wave: Hi there, I'm Christian 
 
 
 ## :book: About me 
 - 💻 I'm a FullStack Developer, Digital Marketing Enthusiast and a lifelong learner!!
-- 👯 I'm looking to collaborate with other Developers to create and grow 📈 something worthwhile
+- 🏢 I'm passionate about building business software solutions
+- 👯 I'm looking to collaborate with other Developers to create and grow 📈 something awesome
+
 
 <br />
 
-## Languages and Tools:
+## :hammer: Languages and Tools:
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=5c5c5c&color=E34F26&logoColor=white&label=%20)
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=1572B6&logoColor=white&label=%20)
