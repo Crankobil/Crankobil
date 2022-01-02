@@ -25,6 +25,6 @@
 
 ## Connect with me:
 
-[![Gmail](https://img.shields.io/badge/lia.maccapani@gmail.com-D14836??style=flat&logo=gmail&logoColor=white&link=mailto:crankobil@gmail.com)](mailto:crankobil@gmail.com) 
+[![Gmail](https://img.shields.io/badge/crankobil@gmail.com-D14836??style=flat&logo=gmail&logoColor=white&link=mailto:crankobil@gmail.com)](mailto:crankobil@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-ankobil/)
 
