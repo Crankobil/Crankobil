@@ -5,7 +5,6 @@
 - 💻 I'm a FullStack Developer, Digital Marketing Enthusiast and a lifelong learner!!
 - 👯 I'm looking to collaborate with other Developers to create and grow 📈 something worthwhile
 
-
 <br />
 
 ## Languages and Tools:
@@ -21,6 +20,8 @@
 ![nodejs](https://img.shields.io/static/v1?message=NodeJS&logo=node.js&labelColor=5c5c5c&color=026E00&logoColor=white&label=%20)
 ![mongodb](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20)
 ![postman](https://img.shields.io/static/v1?message=Postman&logo=postman&labelColor=5c5c5c&color=FF6C37&logoColor=white&label=%20)
+
+<br />
 
 ## Connect with me:
 
