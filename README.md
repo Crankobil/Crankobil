@@ -25,6 +25,8 @@
 
 <br />
 
+## GitHub Stats:
+
 ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=crankobil&show_icons=true&theme=dark)
 
 ## Connect with me:
