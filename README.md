@@ -12,7 +12,7 @@
 ## :hammer: Languages and Tools:
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=5c5c5c&color=E34F26&logoColor=white&label=%20)
-![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=1572B6&logoColor=white&label=%50)
+![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=1572B6&logoColor=white&label=%20)
 ![javascript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=F7DF1E&logoColor=white&label=%20)
 ![bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=blueviolet&logoColor=white&label=%20)
 ![mui](https://img.shields.io/static/v1?message=MUI&logo=mui&labelColor=5c5c5c&color=0072E4&logoColor=white&label=%20)
